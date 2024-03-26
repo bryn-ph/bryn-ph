@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end, full-stack, AI & algorithms.
 - 🌱 I’m currently studying a bachelors of Software Engineering at RMIT
 - 💞️ I’m looking to collaborate on any fun or meaningful projects that need me!
-- 📫 How to reach me [https://bryn-ph.github.io/github_portfolio/](url)
+- 📫 How to reach me [[https://bryn-ph.github.io/github_portfolio/](url)](https://bryn-ph.github.io/github_portfolio/)
 - 😄 Pronouns: He/Him
 
 <!---
