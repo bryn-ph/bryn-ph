@@ -2,7 +2,6 @@
 - 👀 I’m interested in back-end, full-stack, AI & algorithms.
 - 🌱 I’m currently studying a bachelors of Software Engineering at RMIT
 - 💞️ I’m looking to collaborate on any fun or meaningful projects that need me!
-- 📫 Contact me through my website: (https://bryn-ph.github.io/github_portfolio/)
 
 
 <!---
