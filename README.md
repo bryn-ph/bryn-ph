@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Bryn Phillips
-- 👀 I’m interested in back-end, full-stack, AI & algorithms.
-- 🌱 I’m currently studying a bachelors of Software Engineering at RMIT
-- 💞️ I’m looking to collaborate on any fun or meaningful projects that need me!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0F2027,50:203A43,100:2C5364&section=header" alt="header wave"/>
+</p>
+
+<h1 align="center">Hey, I’m Bryn</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;Python+%7C+React+%2B+Typescript+%7C+C%23" alt="Typing SVG" />
+</p>
+
+---
+
+### 🎓 About Me
+- 📚 **Software Engineering** student @ *RMIT*  
+- 🛠️ Confident with **Python**, **C#**, **React**, **Typescript**
+- 🤝 Looking to contribute if it’s **fun** or **meaningful**  
 
 
-<!---
-bryn-ph/bryn-ph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="footer wave"/>
+</p>
