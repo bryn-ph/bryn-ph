@@ -11,8 +11,8 @@
 ---
 
 ###  About Me
+-  Full-stack Developer
 -  **Software Engineering** student @ *RMIT*  
--  Confident with **Python**, **C#**, **Java**, **React**, **Typescript**
 -  Looking to contribute if it’s **fun** or **meaningful**  
 
 
