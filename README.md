@@ -11,7 +11,7 @@
 ---
 
 ###  About Me
--  Full-stack Developer
+-  Full Stack Developer
 -  **Software Engineering** student @ *RMIT*  
 -  Looking to contribute if it’s **fun** or **meaningful**  
 
